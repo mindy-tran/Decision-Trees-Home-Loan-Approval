@@ -59,9 +59,9 @@ Task 2: Implement a Random Forest Classifier
 This uses the BaggingClassifier class from scikit learn to implement your random forest
 This file:
 
-1. Loads the cleaned data.
-2. Partitions the loaded data into two sets: training data (a randomly selected subset of your cleaned
+a. Loads the cleaned data.
+b. Partitions the loaded data into two sets: training data (a randomly selected subset of your cleaned
 data) and testing data (the data not selected for training). 80% training, 20% testing.
-3. Instantiates MyRandomForestClassifier.
+c. Instantiates MyRandomForestClassifier.
 * Trains my model on the training data.
 * Predicts on the testing data. Save the predictions to my_random_forest_predictions
