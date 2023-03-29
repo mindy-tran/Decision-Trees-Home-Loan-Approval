@@ -23,9 +23,13 @@ https://www.kaggle.com/datasets/rishikeshkonapure/home-loan-approval
 Task 0, Set up:
 
 1. Install the required libraries for this project by running the following commands:
+
 pip install scikit-learn
+
 pip install scipy
+
 pip install numpy
+
 pip install matplotlib
 
 2. Unzip the data.zip into your directory to get the iris_data.csv and loan_sanction_test.csv and loan_sanction_train.csv files.
