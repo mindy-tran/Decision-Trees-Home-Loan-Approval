@@ -7,9 +7,10 @@ Project for Machine Learning for Data Science, Winter 2023
 
 In this project:
 1. Implement a decision tree classifier from scratch with the iris dataset
-• You will use the iris dataset to train and test your decision tree model.
-• You will assess the accuracy of your technique using k-fold validation.
-• You will create visualizations using your model.
+
+* You will use the iris dataset to train and test your decision tree model.
+* You will assess the accuracy of your technique using k-fold validation.
+* You will create visualizations using your model.
 
 2. Create a random forest classifier.
 • Using home loan approval data from Kaggle, prepare the data for use, and train and test your random forest model on the data.
