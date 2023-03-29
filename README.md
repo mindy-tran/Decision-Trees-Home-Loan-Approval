@@ -65,3 +65,4 @@ data) and testing data (the data not selected for training). 80% training, 20% t
 c. Instantiates MyRandomForestClassifier.
 * Trains my model on the training data.
 * Predicts on the testing data. Save the predictions to my_random_forest_predictions
+* Evaluates the model with SciKit Learn Classification Report
